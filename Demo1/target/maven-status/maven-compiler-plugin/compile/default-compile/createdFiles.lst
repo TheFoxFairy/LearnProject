@@ -1,0 +1,15 @@
+com\example\demo1\config\ClassPathMyServiceScanner.class
+com\example\demo1\util\ProxyUtil$CallbackFilter.class
+com\example\demo1\controller\YourController.class
+com\example\demo1\annotation\EnableMyAutoConfiguration.class
+com\example\demo1\config\MyAutowiredProcessor$2.class
+com\example\demo1\util\ProxyUtil.class
+com\example\demo1\config\MyAutowiredProcessor.class
+com\example\demo1\annotation\MyService.class
+com\example\demo1\service\YourService.class
+com\example\demo1\Demo1Application.class
+com\example\demo1\util\ProxyUtil$SimpleMethodInterceptor.class
+com\example\demo1\service\impl\YourServiceImpl.class
+com\example\demo1\config\MyAutowiredProcessor$1.class
+com\example\demo1\annotation\MyAutowired.class
+com\example\demo1\config\MyServiceRegistrar.class
