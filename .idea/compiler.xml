@@ -7,20 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="InterfaceUnifiedCallDemo" />
         <module name="Demo2" />
         <module name="NettyDemo" />
         <module name="Demo1" />
+        <module name="AutowriedDemo" />
         <module name="Demo3" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AutowriedDemo" options="-parameters" />
       <module name="Demo1" options="-parameters" />
       <module name="Demo2" options="-parameters" />
       <module name="Demo3" options="-parameters" />
+      <module name="InterfaceUnifiedCallDemo" options="-parameters" />
       <module name="LearnProject" options="" />
       <module name="NettyDemo" options="-parameters" />
+      <module name="StandardDemo" options="" />
     </option>
   </component>
 </project>

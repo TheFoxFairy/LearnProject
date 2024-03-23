@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.demo1.Demo1ApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.332 s <<< FAILURE! - in com.example.demo1.Demo1ApplicationTests
-contextLoads  Time elapsed: 0.006 s  <<< ERROR!
-java.lang.NoClassDefFoundError: org/springframework/dao/DataAccessException
-Caused by: java.lang.ClassNotFoundException: org.springframework.dao.DataAccessException
-
