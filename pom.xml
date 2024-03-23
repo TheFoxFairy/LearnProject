@@ -21,6 +21,7 @@
         <module>Demo3</module>
         <module>NettyDemo</module>
         <module>AutowriedDemo</module>
+        <module>StandardDemo</module>
     </modules>
 
 </project>
