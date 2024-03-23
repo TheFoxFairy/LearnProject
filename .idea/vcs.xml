@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AutowriedDemo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NettyDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StandardDemo/InterfaceUnifiedCallDemo" vcs="Git" />
   </component>
 </project>
