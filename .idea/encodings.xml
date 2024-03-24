@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
-    <file url="file://$PROJECT_DIR$/AutowriedDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AopDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AutowiredDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo1/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Demo2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/NettyDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/StandardDemo/InterfaceUnifiedCallDemo/src/main/java" charset="UTF-8" />
