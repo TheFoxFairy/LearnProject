@@ -1,0 +1,14 @@
+com\example\interfaceunifiedcalldemo\service\DemoService3.class
+com\example\interfaceunifiedcalldemo\InterfaceUnifiedCallDemoApplication.class
+com\example\interfaceunifiedcalldemo\service\ConsumerService.class
+com\example\interfaceunifiedcalldemo\controller\TestController.class
+com\example\interfaceunifiedcalldemo\service\impl\ConsumerServiceImpl.class
+com\example\interfaceunifiedcalldemo\common\RequestDTO.class
+com\example\interfaceunifiedcalldemo\service\impl\DemoService3Impl.class
+com\example\interfaceunifiedcalldemo\enums\RequestEnum.class
+com\example\interfaceunifiedcalldemo\service\IManagementService.class
+com\example\interfaceunifiedcalldemo\service\DemoService2.class
+com\example\interfaceunifiedcalldemo\service\impl\DemoService1Impl.class
+com\example\interfaceunifiedcalldemo\factory\DemoServiceFactory.class
+com\example\interfaceunifiedcalldemo\service\DemoService1.class
+com\example\interfaceunifiedcalldemo\service\impl\DemoService2Impl.class
