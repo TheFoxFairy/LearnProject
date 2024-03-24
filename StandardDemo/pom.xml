@@ -20,5 +20,8 @@
 
 	<modules>
 		<module>InterfaceUnifiedCallDemo</module>
+		<module>AopDemo</module>
+		<module>VerificationDemo</module>
+		<module>ExcelDemo</module>
 	</modules>
 </project>

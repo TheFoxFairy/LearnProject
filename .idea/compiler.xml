@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="InterfaceUnifiedCallDemo" />
         <module name="AutowiredDemo" />
+        <module name="ExcelDemo" />
         <module name="NettyDemo" />
         <module name="VerificationDemo" />
         <module name="AopDemo" />
@@ -23,6 +24,7 @@
       <module name="AopDemo" options="-parameters" />
       <module name="AutowiredDemo" options="-parameters" />
       <module name="Demo1" options="-parameters" />
+      <module name="ExcelDemo" options="-parameters" />
       <module name="InterfaceUnifiedCallDemo" options="-parameters" />
       <module name="LearnProject" options="" />
       <module name="NettyDemo" options="-parameters" />
